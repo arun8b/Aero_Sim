@@ -44,6 +44,6 @@ This project is designed to show aerospace-relevant simulation judgement rather 
 └── README.md
 ```
 
-## Recruiter-facing summary
+## Summary
 
 Built a reproducible OpenFOAM simulation workflow for aerospace-relevant numerical analysis, including setup automation, convergence checks, post-processing and engineering interpretation.
