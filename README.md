@@ -1,4 +1,4 @@
-# ARUN M D — Open-Source Simulation Portfolio
+# Open-Source Simulation Portfolio
 
 This repository is a GitHub Pages-ready portfolio for aerospace-focused simulation projects using:
 
